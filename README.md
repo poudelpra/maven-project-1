@@ -1,5 +1,5 @@
 
-# This is the change what i have made
+# Hey, I made a change here
 # maven-project
 Source code for James Lee's Jenkins course.
 
